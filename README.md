@@ -6,7 +6,7 @@
 
 <h2 align="left">A passionate Flutter developer from Bangladesh.</h2>
 
-<h3 align="left">I am a Student of Computer Science and Engineering. Recently I have completed my BSc from Green University Bangladesh. Now I am developing apps using Flutter for both IOS and Android. I have already developed many software using Flutter. Also I have interested Mechine Learning, Programming.
+<h3 align="left">I am a Student of Computer Science and Engineering. Recently I have completed my BSc from Green University Bangladesh. Now I am developing apps using Flutter for both IOS and Android. I have already developed many software using Flutter. Also I have interested Mechine Learning and Programming.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rassel98&label=Profile%20views&color=0e75b6&style=flat" alt="rassel98" /> </p>
