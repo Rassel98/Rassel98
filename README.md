@@ -1,12 +1,12 @@
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Md Jahidul Alam Rassel</h1>
 
-<h2 align="center">A passionate Flutter developer from Bangladesh.</h2>
+<h2 align="left">A passionate Flutter developer from Bangladesh.</h2>
 
-<h3 align="center">I am a Student of Computer Science and Engineering. Recently I have completed my BSc from Green University Bangladesh. Now I am developing apps using Flutter for both IOS and Android. I have already developed many software using Flutter. Also I have interested Mechine Learning, Programming.
+<h3 align="left">I am a Student of Computer Science and Engineering. Recently I have completed my BSc from Green University Bangladesh. Now I am developing apps using Flutter for both IOS and Android. I have already developed many software using Flutter. Also I have interested Mechine Learning, Programming.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rassel98&label=Profile%20views&color=0e75b6&style=flat" alt="rassel98" /> </p>
@@ -14,6 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
+- 👯 I’m looking to collaborate on Github 
 
 - 💬 Ask me about **Android,iOS**
 
