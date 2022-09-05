@@ -4,10 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Md Jahidul Alam Rassel</h1>
 
-<h3 align="center">A passionate Flutter developer from Bangladesh.I am a Student of Computer Science and Engineering. Recently I have completed my BSc from Green University Bangladesh. Now I am developing apps using Flutter for both IOS and Android. I have already developed many software using Flutter. Also I have interested Mechine Learning, Programming.
-</h3><p align="right"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" /> </p>
+<h2 align="center">A passionate Flutter developer from Bangladesh.</h2>
 
-
+<h3 align="center">I am a Student of Computer Science and Engineering. Recently I have completed my BSc from Green University Bangladesh. Now I am developing apps using Flutter for both IOS and Android. I have already developed many software using Flutter. Also I have interested Mechine Learning, Programming.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rassel98&label=Profile%20views&color=0e75b6&style=flat" alt="rassel98" /> </p>
