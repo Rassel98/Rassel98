@@ -6,11 +6,9 @@
 
 <h2 align="left">A passionate Mobile App Developer from Bangladesh.</h2>
 
-<h3 align="left">I am a dedicated Mobile App Developer actively expanding my expertise in Jetpack Compose. My specialization includes building scalable, high-performance mobile applications with a strong focus on UI/UX, state management, and Firebase integration.</h3>
+<h4 align="left">I am a dedicated Flutter Mobile App Developer actively expanding my expertise in Jetpack Compose. My specialization includes building scalable, high-performance mobile applications with a strong focus on UI/UX, state management, and Firebase integration.</h4>
 
-<h3 align="left">I primarily develop apps using Flutter for both iOS and Android, and I have successfully built multiple mobile applications. Additionally, I have a keen interest in Machine Learning and Programming.I hold a BSc in Computer Science from Green University Bangladesh.
-
-</h3>
+<h4 align="left">I primarily develop apps using Flutter for both iOS and Android, and I have successfully built multiple mobile applications. Additionally, I have a keen interest in Machine Learning and Programming.I hold a BSc in Computer Science from Green University Bangladesh.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rassel98&label=Profile%20views&color=0e75b6&style=flat" alt="rassel98" /> </p>
 
