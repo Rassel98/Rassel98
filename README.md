@@ -4,10 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Md Jahidul Alam Rassel</h1>
 
-<h2 align="left">A passionate Flutter developer from Bangladesh.</h2>
+<h2 align="left">A passionate Mobile App Developer from Bangladesh.</h2>
 
-<h3 align="left">Hi I am a app developer. I am developing apps using Flutter for both IOS and Android. I have already developed many mobile apps using Flutter. Also I have interested Mechine Learning and Programming.I have completed my BSc from Green University Bangladesh.
+<h3 align="left">I am a dedicated Mobile App Developer actively expanding my expertise in Jetpack Compose. My specialization includes building scalable, high-performance mobile applications with a strong focus on UI/UX, state management, and Firebase integration.</h3>
 
+<h3 align="left">I primarily develop apps using Flutter for both iOS and Android, and I have successfully built multiple mobile applications. Additionally, I have a keen interest in Machine Learning and Programming.I hold a BSc in Computer Science from Green University Bangladesh.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rassel98&label=Profile%20views&color=0e75b6&style=flat" alt="rassel98" /> </p>
 
