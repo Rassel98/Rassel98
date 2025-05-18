@@ -8,14 +8,14 @@
 
 <h4 align="left">I am a dedicated Flutter Mobile App Developer actively expanding my expertise in Jetpack Compose. My specialization includes building scalable, high-performance mobile applications with a strong focus on UI/UX, state management, and Firebase integration.</h4>
 
-<h4 align="left">I primarily develop apps using Flutter for both iOS and Android, and I have successfully built multiple mobile applications. Additionally, I have a keen interest in Machine Learning and Programming.I hold a BSc in Computer Science from Green University Bangladesh.</h4>
+<h4 align="left">I primarily develop apps using Flutter for iOS and Android, and I have successfully built multiple mobile applications. Additionally, I have a keen interest in Machine Learning and Programming. I hold a BSc in Computer Science from Green University Bangladesh.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rassel98&label=Profile%20views&color=0e75b6&style=flat" alt="rassel98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **.NET Core**
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 
 - 💬 Ask me about **Android,iOS**
 
